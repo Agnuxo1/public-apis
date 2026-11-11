@@ -17,6 +17,10 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 
 <br >
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> This fork retains the <a href="https://github.com/intagliated/public-apis">upstream project</a>’s community-curated API directory across scientific, environmental, business and other domains. A common index helps developers discover existing data services and reuse interfaces instead of recreating data collection infrastructure. The practical value is faster initial exploration, while current access terms, reliability and data quality remain properties to verify with each API provider.</sub>
+<!-- impact-note:end -->
+
 ## APILayer APIs
 | API | Description | Call this API |
 |:---|:---|:---|
